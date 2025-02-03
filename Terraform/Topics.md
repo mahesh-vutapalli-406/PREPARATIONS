@@ -28,6 +28,8 @@
 - [ ] Sentinal
 - [ ] Terraform cloud
 - [ ] Debuggibg & Trouble shooting
+    - [ ] terrascan tools
+    - [ ] tflint tools
 - [ ] Other topics
     - [ ] splat expression
     - [ ] count
