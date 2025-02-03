@@ -1,0 +1,37 @@
+## Terraform Topics
+
+#### Basics
+- [ ] Environment setup
+- [ ] Terraform workflow
+- [ ] Terraform CLI commands
+- [ ] Core concepts
+    - [ ] Providers
+    - [ ] Resources
+    - [ ] Data sources
+    - [ ] Variables
+    - [ ] Outputs
+    - [ ] Data types
+    - [ ] conditional expressions
+    - [ ] Functions
+    - [ ] Settings
+    - [ ] Provisioners
+    - [ ] Meta data
+    - [ ] MODULES
+    - [ ] Dynamic blocks
+- [ ] Terraform Backend
+    - [ ] State management
+    - [ ] State file locking
+    - [ ] Remote state data source
+- [ ] Logging
+- [ ] Terraform Import
+- [ ] Workspace
+- [ ] Sentinal
+- [ ] Terraform cloud
+- [ ] Debuggibg & Trouble shooting
+- [ ] Other topics
+    - [ ] splat expression
+    - [ ] count
+    - [ ] for_each
+    - [ ] trraform settings
+    - [ ] terraform graph
+    - [ ] terraform tiant
