@@ -1,5 +1,7 @@
 # ✅ AWS Concepts for DevOps
 
+- **CHEAT SHEET** - https://digitalcloud.training/aws-cheat-sheets/
+
 ## 1. **AWS Basics**
 - [ ] Understand the core services, regions, and availability zones.
 - [ ] Learn about AWS's global infrastructure (regions, availability zones, edge locations).
